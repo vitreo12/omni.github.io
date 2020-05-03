@@ -1,7 +1,3 @@
-<div align="center">
-    <img src="/images/omni_logo_transparent.png" alt="Omni logo" width="50%" height="50%">
-</div>
-
 Omni is a cross-platform DSL (Domain Specific Language) for low level audio programming. 
 It aims to be a new, expressive and easy to use programming language to code audio algorithms in.
 
