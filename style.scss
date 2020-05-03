@@ -243,9 +243,7 @@ nav {
 //
 
 //Support for __posts
-/*
 .posts > .post {
-  //padding-top: 0;             //no padding from top!
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
 }
@@ -286,7 +284,6 @@ footer {
   padding: 20px 0;
   text-align: center;
 }
-*/
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
