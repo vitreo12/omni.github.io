@@ -6,7 +6,7 @@
 name: omni
 
 # Short bio or description (displayed in the header)
-description: DSL for low-level audio programming.
+description: DSL for low-level audio programming
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/omni_logo_transparent.png
