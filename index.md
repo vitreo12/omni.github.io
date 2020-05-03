@@ -36,26 +36,26 @@ When running the `omni` compiler, the output is either a static or shared librar
 
 ## Documentation
 
-### [01 - Syntax](/_posts/01_syntax.md)
+### [01 - Syntax](/docs/01_syntax.md)
 
-### [02 - The ins and outs blocks](/_posts/02_ins_outs.md)
+### [02 - The ins and outs blocks](/docs/02_ins_outs.md)
 
-### [03 - The init block](/_posts/03_init.md)
+### [03 - The init block](/docs/03_init.md)
 
-### [04 - The perform and sample blocks](/_posts/04_perform_sample.md)
+### [04 - The perform and sample blocks](/docs/04_perform_sample.md)
 
-### [05 - Functions: def](/_posts/05_def.md)
+### [05 - Functions: def](/docs/05_def.md)
 
-### [06 - Custom types: struct](/_posts/06_struct.md)
+### [06 - Custom types: struct](/docs/06_struct.md)
 
-### [07 - Memory allocation: Data](/_posts/07_data.md)
+### [07 - Memory allocation: Data](/docs/07_data.md)
 
-### [08 - External memory: Buffer](/_posts/08_buffer.md)
+### [08 - External memory: Buffer](/docs/08_buffer.md)
 
-### [09 - Stdlib: Delay](/_posts/09_delay.md)
+### [09 - Stdlib: Delay](/docs/09_delay.md)
 
-### [10 - Code composition](/_posts/10_code_composition.md)
+### [10 - Code composition](/docs/10_code_composition.md)
 
-### [11 - Writing wrappers](/_posts/11_writing_wrappers.md)
+### [11 - Writing wrappers](/docs/11_writing_wrappers.md)
 
-### [12 - Nim interoperability](/_posts/12_nim_interop.md)
+### [12 - Nim interoperability](/docs/12_nim_interop.md)
