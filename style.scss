@@ -151,12 +151,13 @@ img {
 // .masthead
 //
 
+//This is the margin from the header to the bottom!
 .wrapper-masthead {
-  margin-bottom: 0px;
+  margin-bottom: 0;
 }
 
 .masthead {
-  padding: 20px 0;
+  padding: 0 0;
   border-bottom: 1px solid $lightGray;
 
   @include mobile {
