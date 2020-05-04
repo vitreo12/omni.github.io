@@ -27,9 +27,11 @@ In the previous oscillator example, the `ins` and `outs` blocks define the numbe
 It is important to remember that **ALL** code must always be included inside of each of the different blocks, each one serving a different purpose.
 More information on all the block types follows in the next sections.
 
-## Syntax
+**__NOTE:__**
 
-### Variable declaration
+In omni, indentation is mandatory to specify each different block section.
+
+## Variable declaration
 
 As you might have noticed, declaration of variables in omni doesn't need any keyword. Despite being a strictly statically typed language, all types are inferred by the return type of a given statement. Optionally, types can be explicitly set with this syntax:
 
@@ -47,7 +49,7 @@ init:
     PHASE = 1.0  # <-- This will error out, trying to modify a constant variable
 ```
 
-### Function calls
+## Function calls
 
 The syntax to call functions, `defs` (more on them later),  can be either of the following:
 
@@ -62,7 +64,7 @@ init:
     y = a.mySum(b)  #alternative "method" calling syntax
 ```
 
-### Flow control
+## Flow control
 
 There are two options for loops in omni, using either the `for` or `while` statements:
 
